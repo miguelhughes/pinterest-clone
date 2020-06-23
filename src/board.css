@@ -1,0 +1,40 @@
+.board-list {
+  background-color: #ececec;
+  box-shadow: 0 7px 8px -8px grey inset;
+}
+.board {
+  width: 300px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 5px;
+  display: inline-block;
+  margin: 50px 15px 0px 15px;
+  vertical-align: top;
+  box-shadow: 7px 7px 8px -8px grey;
+}
+.board .author {
+  font-weight: bold;
+  color: gray;
+}
+.board-name {
+  font-weight: bold;
+}
+.board img,
+.board span,
+.board div {
+  border-radius: 3px;
+}
+.board img {
+  width: 96px;
+  height: 90px;
+  object-fit: cover;
+  border: 1px solid grey;
+  margin-right: 3px;
+}
+.board img:last-of-type {
+  margin-right: 0px;
+}
+.board img.main {
+  width: 298px;
+  height: 340px;
+}
