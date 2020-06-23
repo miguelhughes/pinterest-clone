@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pinterest-clone/static/css/main.d72d1ceb.chunk.css",
+    "main.js": "/pinterest-clone/static/js/main.6f440d26.chunk.js",
+    "main.js.map": "/pinterest-clone/static/js/main.6f440d26.chunk.js.map",
+    "runtime-main.js": "/pinterest-clone/static/js/runtime-main.226ffa73.js",
+    "runtime-main.js.map": "/pinterest-clone/static/js/runtime-main.226ffa73.js.map",
+    "static/css/2.aa2643d3.chunk.css": "/pinterest-clone/static/css/2.aa2643d3.chunk.css",
+    "static/js/2.b9b0369e.chunk.js": "/pinterest-clone/static/js/2.b9b0369e.chunk.js",
+    "static/js/2.b9b0369e.chunk.js.map": "/pinterest-clone/static/js/2.b9b0369e.chunk.js.map",
+    "index.html": "/pinterest-clone/index.html",
+    "precache-manifest.52cf3fdb2dab0b97b0dcae53ff7731a1.js": "/pinterest-clone/precache-manifest.52cf3fdb2dab0b97b0dcae53ff7731a1.js",
+    "service-worker.js": "/pinterest-clone/service-worker.js",
+    "static/css/2.aa2643d3.chunk.css.map": "/pinterest-clone/static/css/2.aa2643d3.chunk.css.map",
+    "static/css/main.d72d1ceb.chunk.css.map": "/pinterest-clone/static/css/main.d72d1ceb.chunk.css.map",
+    "static/js/2.b9b0369e.chunk.js.LICENSE.txt": "/pinterest-clone/static/js/2.b9b0369e.chunk.js.LICENSE.txt",
+    "static/media/all.min.css": "/pinterest-clone/static/media/fa-solid-900.ec763292.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.226ffa73.js",
+    "static/css/2.aa2643d3.chunk.css",
+    "static/js/2.b9b0369e.chunk.js",
+    "static/css/main.d72d1ceb.chunk.css",
+    "static/js/main.6f440d26.chunk.js"
+  ]
+}
