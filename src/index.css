@@ -72,3 +72,7 @@
   font-size: small;
   line-height: 2em;
 }
+
+.readme-viewer.expanded {
+  z-index: 10;
+}
