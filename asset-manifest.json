@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/pinterest-clone/static/css/main.d72d1ceb.chunk.css",
-    "main.js": "/pinterest-clone/static/js/main.b7be1e8f.chunk.js",
-    "main.js.map": "/pinterest-clone/static/js/main.b7be1e8f.chunk.js.map",
+    "main.css": "/pinterest-clone/static/css/main.341f8398.chunk.css",
+    "main.js": "/pinterest-clone/static/js/main.3013fbf9.chunk.js",
+    "main.js.map": "/pinterest-clone/static/js/main.3013fbf9.chunk.js.map",
     "runtime-main.js": "/pinterest-clone/static/js/runtime-main.226ffa73.js",
     "runtime-main.js.map": "/pinterest-clone/static/js/runtime-main.226ffa73.js.map",
-    "static/css/2.aa2643d3.chunk.css": "/pinterest-clone/static/css/2.aa2643d3.chunk.css",
-    "static/js/2.b9b0369e.chunk.js": "/pinterest-clone/static/js/2.b9b0369e.chunk.js",
-    "static/js/2.b9b0369e.chunk.js.map": "/pinterest-clone/static/js/2.b9b0369e.chunk.js.map",
+    "static/css/2.e824bf59.chunk.css": "/pinterest-clone/static/css/2.e824bf59.chunk.css",
+    "static/js/2.f9a0d4fc.chunk.js": "/pinterest-clone/static/js/2.f9a0d4fc.chunk.js",
+    "static/js/2.f9a0d4fc.chunk.js.map": "/pinterest-clone/static/js/2.f9a0d4fc.chunk.js.map",
     "index.html": "/pinterest-clone/index.html",
-    "precache-manifest.06582d056b1bd1c7a4300268ab28b8ec.js": "/pinterest-clone/precache-manifest.06582d056b1bd1c7a4300268ab28b8ec.js",
+    "precache-manifest.fcd80128e8e7401451248e652ffb76fa.js": "/pinterest-clone/precache-manifest.fcd80128e8e7401451248e652ffb76fa.js",
     "service-worker.js": "/pinterest-clone/service-worker.js",
-    "static/css/2.aa2643d3.chunk.css.map": "/pinterest-clone/static/css/2.aa2643d3.chunk.css.map",
-    "static/css/main.d72d1ceb.chunk.css.map": "/pinterest-clone/static/css/main.d72d1ceb.chunk.css.map",
-    "static/js/2.b9b0369e.chunk.js.LICENSE.txt": "/pinterest-clone/static/js/2.b9b0369e.chunk.js.LICENSE.txt",
+    "static/css/2.e824bf59.chunk.css.map": "/pinterest-clone/static/css/2.e824bf59.chunk.css.map",
+    "static/css/main.341f8398.chunk.css.map": "/pinterest-clone/static/css/main.341f8398.chunk.css.map",
+    "static/js/2.f9a0d4fc.chunk.js.LICENSE.txt": "/pinterest-clone/static/js/2.f9a0d4fc.chunk.js.LICENSE.txt",
     "static/media/all.min.css": "/pinterest-clone/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.226ffa73.js",
-    "static/css/2.aa2643d3.chunk.css",
-    "static/js/2.b9b0369e.chunk.js",
-    "static/css/main.d72d1ceb.chunk.css",
-    "static/js/main.b7be1e8f.chunk.js"
+    "static/css/2.e824bf59.chunk.css",
+    "static/js/2.f9a0d4fc.chunk.js",
+    "static/css/main.341f8398.chunk.css",
+    "static/js/main.3013fbf9.chunk.js"
   ]
 }

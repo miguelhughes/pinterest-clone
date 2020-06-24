@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "053c6ca9db77c0f3b201d25fb55f15a5",
+    "revision": "0d9c6d081a98b75c0045ab802596c001",
     "url": "/pinterest-clone/index.html"
   },
   {
-    "revision": "2b636f8ce97a68d4cf2c",
-    "url": "/pinterest-clone/static/css/2.aa2643d3.chunk.css"
+    "revision": "e66a36677e05b69b9895",
+    "url": "/pinterest-clone/static/css/2.e824bf59.chunk.css"
   },
   {
-    "revision": "f86524941d346826bb8d",
-    "url": "/pinterest-clone/static/css/main.d72d1ceb.chunk.css"
+    "revision": "75f3ddd5e64849b70235",
+    "url": "/pinterest-clone/static/css/main.341f8398.chunk.css"
   },
   {
-    "revision": "2b636f8ce97a68d4cf2c",
-    "url": "/pinterest-clone/static/js/2.b9b0369e.chunk.js"
+    "revision": "e66a36677e05b69b9895",
+    "url": "/pinterest-clone/static/js/2.f9a0d4fc.chunk.js"
   },
   {
-    "revision": "13b685b3db9ae92c2d07c213e5e3506f",
-    "url": "/pinterest-clone/static/js/2.b9b0369e.chunk.js.LICENSE.txt"
+    "revision": "40046c021c0025c71b5ec67323b92a85",
+    "url": "/pinterest-clone/static/js/2.f9a0d4fc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f86524941d346826bb8d",
-    "url": "/pinterest-clone/static/js/main.b7be1e8f.chunk.js"
+    "revision": "75f3ddd5e64849b70235",
+    "url": "/pinterest-clone/static/js/main.3013fbf9.chunk.js"
   },
   {
     "revision": "046fcd0f3a4104d2504e",
